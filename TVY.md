@@ -1,7 +1,5 @@
 # TVY chyby
 
-## Zoznam chyb
-
 | Strana | Popis | Nahlasene | Opravene |
 | ------ | ----- | --------- | -------- |
 | 5      | funkcia g(x1) zle umiestnene rovna sa | 6.10.2015 | |
