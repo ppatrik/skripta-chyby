@@ -10,3 +10,4 @@
 | 167 | v dokaze V3 "Pre kazde i z {1, ... , n} teda môžeme definovať funkciu gi vztahom ....." i-cka maju byt z mnoziny {1, ..., k} | 10.1.2016 | |
 | 185 | v dokaze V4 a casti "Nech f = Indikator^n(r) a h = Indikator^(n+1)(q). Kedze q patri do PRR, podla definicie PRR plati h" - v bubline na PRR je ako su pisane dosadene premenne tak tam je n: k a malo by byt n: n | 10.1.2016 | |
 | 253 | v dokaze sublemy 1 vety 5 v bubline pre Sekvencia^2 (a aj ostatnych pre sekvenciu) je pisane ze U: Ai (a pod.) avsak v definicii sa u nenachadza, nemalo by byt v definicii potom U je Sekvencia^n ? | 11.1.2016 | |
+| 254 | v dokaze sublemy 4 vety 5 v casti kde <y1, ..., yk> nepatri do Dom(h) chyba slovo je v riadkoch, je tam napisane ".... nekonečný", spravne by malo byt ".... je nekonečný" ako to je v dokaze sublemy 2 | 11.1.2016 | |
