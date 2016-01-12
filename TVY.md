@@ -11,3 +11,4 @@
 | 185 | v dokaze V4 a casti "Nech f = Indikator^n(r) a h = Indikator^(n+1)(q). Kedze q patri do PRR, podla definicie PRR plati h" - v bubline na PRR je ako su pisane dosadene premenne tak tam je n: k a malo by byt n: n | 10.1.2016 | |
 | 253 | v dokaze sublemy 1 vety 5 v bubline pre Sekvencia^2 (a aj ostatnych pre sekvenciu) je pisane ze U: Ai (a pod.) avsak v definicii sa u nenachadza, nemalo by byt v definicii potom U je Sekvencia^n ? | 11.1.2016 | |
 | 254 | v dokaze sublemy 4 vety 5 v casti kde <y1, ..., yk> nepatri do Dom(h) chyba slovo je v riadkoch, je tam napisane ".... nekonečný", spravne by malo byt ".... je nekonečný" ako to je v dokaze sublemy 2 | 11.1.2016 | |
+| 251 | v definicii regularneho pocitania sa pise ze ak vypocet na T z NK^n je nekonecny <=> <x1, ..., xn> patri Dom(f) plati NK^n --(T)--> NK^(n+1) - podla mna je tam chyba pretoze ak by bol nekonecny tak sa nedostaneme do NK^(n+1) pretoze stale by pocital | 12.1.2016 | |
